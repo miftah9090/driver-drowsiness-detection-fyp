@@ -48,16 +48,18 @@ python main_final_laptop_fixed.py
 ## 📁 Project Structure
 ```
 DrowsyV2/
-├── main_final_laptop_fixed.py  # Main code with alarm
-├── alarm.wav                   # Optional siren sound
+├── main_final_laptop_fixed.py
+├── alarm.wav
 ├── requirements.txt
 ├── README.md
 └── screenshots/
+    ├── EAR_0.15_alert.jpg (your last photo)
+    └── demo.mp4 (your video
 ```
 
 ## 🎓 FYP Details
 - Student: Miftah Uddin
-- University: Final Year Project 2025-26
+- University: Final Year Project 2023
 - Tech: Python, OpenCV, MediaPipe Face Mesh, EAR Algorithm
 
 ## 📜 License
