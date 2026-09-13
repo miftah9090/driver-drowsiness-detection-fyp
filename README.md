@@ -53,8 +53,7 @@ DrowsyV2/
 ├── requirements.txt
 ├── README.md
 └── screenshots/
-    ├── EAR_0.15_alert.jpg (your last photo)
-    └── demo.mp4 (your video
+    └── demo.mp4 (your video)
 ```
 
 ## 🎓 FYP Details
